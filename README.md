@@ -1,7 +1,4 @@
 Run `npm install` to install dependencies.
-
-Run `npm run build` to bundle the code.
-
-Open `dist/` and open `index.html`.
-
+Run `npm start` to bundle the code and serve dist files.
+Navigate to `http://localhost:8080` in any browser.
 Produces: `Uncaught TypeError: _interopRequireDefault is not a function`
