@@ -18,8 +18,9 @@
   "homepage": "https://github.com/AndriusBil/babel-require-example#readme",
   "dependencies": {},
   "devDependencies": {
-    "@babel/core": "7.13.0",
+    "@babel/core": "7.13.1",
     "@babel/preset-env": "7.12.1",
+    "@babel/runtime": "7.13.0",
     "babel-loader": "8.1.0",
     "html-webpack-plugin": "5.1.0",
     "webpack": "5.3.0",
