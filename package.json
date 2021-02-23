@@ -1,0 +1,28 @@
+{
+  "name": "babel-require-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config ./webpack.config.js --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriusBil/babel-require-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriusBil/babel-require-example/issues"
+  },
+  "homepage": "https://github.com/AndriusBil/babel-require-example#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.13.0",
+    "@babel/preset-env": "7.12.1",
+    "babel-loader": "8.1.0",
+    "html-webpack-plugin": "5.1.0",
+    "webpack": "5.3.0",
+    "webpack-cli": "4.1.0"
+  }
+}
